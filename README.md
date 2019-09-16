@@ -18,7 +18,7 @@
 
 ---
 
-# Aula do dia 11/09/2019 - Aula 12
+## Aula do dia 11/09/2019 - Aula 12
 [scatterplot.html] (d3_scale/scatterplot.html)<br>
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
