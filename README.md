@@ -1,3 +1,13 @@
+## Aula do dia 11/09/2019 - Aula 12
+[scatterplot.html](d3_scale/scatterplot.html)<br>
+
+---
+
+## Aula do dia 04/09/2019 - Aula 10
+[notebook.html](d3_intro/notebook.html)<br>
+
+---
+
 ## Aula do dia 02/09/2019
 
 [index01.html](basic/index01.html)<br>
@@ -13,12 +23,5 @@
 
 ---
 
-## Aula do dia 04/09/2019 - Aula 10
-[notebook.html](d3_intro/notebook.html)<br>
-
----
-
-## Aula do dia 11/09/2019 - Aula 12
-[scatterplot.html](d3_scale/scatterplot.html)<br>
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
