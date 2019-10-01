@@ -1,0 +1,14 @@
+{
+  "name": "@matheusbarrio/d3-com-crossfilter-e-dc-js-parte-2",
+  "main": "d/b8f23c75a0374ce1.js",
+  "version": "176.0.0",
+  "homepage": "https://observablehq.com/@matheusbarrio/d3-com-crossfilter-e-dc-js-parte-2",
+  "author": {
+    "name": "Matheus Barrio",
+    "url": "https://observablehq.com/@matheusbarrio"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
