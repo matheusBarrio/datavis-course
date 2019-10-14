@@ -1,0 +1,14 @@
+{
+  "name": "@matheusbarrio/similar-song-network",
+  "main": "d/b274ed6322e95aca.js",
+  "version": "67.0.0",
+  "homepage": "https://observablehq.com/@matheusbarrio/similar-song-network",
+  "author": {
+    "name": "Matheus Barrio",
+    "url": "https://observablehq.com/@matheusbarrio"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
