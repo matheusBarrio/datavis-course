@@ -1,0 +1,14 @@
+{
+  "name": "@matheusbarrio/les-miserables",
+  "main": "d/18cfb5f34e77ca15.js",
+  "version": "80.0.0",
+  "homepage": "https://observablehq.com/@matheusbarrio/les-miserables",
+  "author": {
+    "name": "Matheus Barrio",
+    "url": "https://observablehq.com/@matheusbarrio"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
