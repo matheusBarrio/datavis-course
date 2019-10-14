@@ -1,3 +1,9 @@
+## Aula do dia 09/10/2019 - Aula 20
+[index.html](d3_network/index.html) <br/>
+[lesmiserables.html](d3_network_lesmiserables/index.html)
+
+---
+
 ## Aula do dia 30/09/2019 - Aula 17
 [index.html](d3_leaflet/index.html)
 
