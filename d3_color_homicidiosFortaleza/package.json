@@ -1,0 +1,14 @@
+{
+  "name": "@matheusbarrio/homicidios-em-fortaleza-em-2012",
+  "main": "d/016926951251b336.js",
+  "version": "98.0.0",
+  "homepage": "https://observablehq.com/@matheusbarrio/homicidios-em-fortaleza-em-2012",
+  "author": {
+    "name": "Matheus Barrio",
+    "url": "https://observablehq.com/@matheusbarrio"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
