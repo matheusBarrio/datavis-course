@@ -1,3 +1,9 @@
+## Aula do dia 16/10/2019 - Aula 20
+[index.html](d3_color/index.html) <br/>
+[homicidiosFortaleza.html](d3_color_homicidiosFortaleza/index.html)
+
+---
+
 ## Aula do dia 09/10/2019 - Aula 20
 [index.html](d3_network/index.html) <br/>
 [lesmiserables.html](d3_network_lesmiserables/index.html)
