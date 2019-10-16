@@ -1,4 +1,4 @@
-## Aula do dia 16/10/2019 - Aula 20
+## Aula do dia 16/10/2019 - Aula 21
 [index.html](d3_color/index.html) <br/>
 [homicidiosFortaleza.html](d3_color_homicidiosFortaleza/index.html)
 
