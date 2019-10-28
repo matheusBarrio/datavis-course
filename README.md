@@ -1,6 +1,6 @@
 ## Aula do dia 23/10/2019 - Aula 23
 [index.html](d3_interactive/index.html) <br/>
-[TerremotoJapao.html](d3_color_interactive_earthquake/index.html)
+[TerremotoJapao.html](d3_interactive_earthquake/index.html)
 
 ---
 
