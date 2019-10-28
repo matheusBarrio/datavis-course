@@ -1,0 +1,14 @@
+{
+  "name": "@matheusbarrio/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2",
+  "main": "d/b55c9a0407d802b9.js",
+  "version": "90.0.0",
+  "homepage": "https://observablehq.com/@matheusbarrio/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2",
+  "author": {
+    "name": "Matheus Barrio",
+    "url": "https://observablehq.com/@matheusbarrio"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
